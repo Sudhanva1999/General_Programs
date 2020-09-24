@@ -1,3 +1,4 @@
+//gets rid of duplicates words from a file.
 #include <iostream>
 #include <fstream>
 #include<set> // for set operations 
